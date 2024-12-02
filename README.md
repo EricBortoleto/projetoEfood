@@ -5,7 +5,7 @@
 <h1 align="center">Efood - Viva experiências gastronômicas no conforto da sua casa</h1>
 
 <h1 align="center">
-    <a href="#"> Clique aqui para acessar o site do projeto</a>
+    <a href="https://projeto-efood-seven.vercel.app/" target="_blank"> Clique aqui para acessar o site do projeto</a>
 </h1>
 </div>
 
